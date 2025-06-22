@@ -14,7 +14,7 @@ const durTime = document.querySelector('#durTime');
 // Song titles
 const songs = ['farahMurtile', 
 'shaadiyoSharaf','Grit', 
-'INFLUENCECarnegie', 'NoExcusesBook', 'SOGOOD','THEMOUNTAINISYOU','ZAKI'];
+'INFLUENCECarnegie', 'NoExcusesBook', 'SOGOOD','THEMOUNTAINISYOU','ZAKI', 'aboutMe'];
 
 // Keep track of song
 let songIndex = 2;
